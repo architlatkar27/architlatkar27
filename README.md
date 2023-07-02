@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Shadows+Into+Light+&size=30&pause=1000&color=40F734&background=020107F2&center=true&vCenter=true&width=435&height=160&lines=Hello+There+%F0%9F%91%8B;My+name+is+Archit+Latkar;Welcome+to+my+page+%F0%9F%98%83)](https://git.io/typing-svg)
