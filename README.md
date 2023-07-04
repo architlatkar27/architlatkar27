@@ -19,7 +19,7 @@ I write code in golang and regularly use Kubernetes concepts on AWS cloud platfo
 
 <b><h2> my skillset </h2>
 
-what i use for programming
+what languages i use for programming
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -70,7 +70,16 @@ some other stuff that i use
 
 <h1>Whats in my focus🧐</h1>
 
+<li>Currently focused on getting to know more about distributed databses and internal workings of Apache Hive</li>
+<li>Working on my piano skills again</li>
+
+
 <h1>Someday i would like to...</h1>
+
+
+<li>Do the Kashmir great lakes trek ⛰️</li>
+<li>Watch F1 races from the paddocks 🏎️ </li>
+<li>Become a commiter on some interesting Apache projects, maybe even start one of my own 👨🏻‍💻</li>
 
 <h1>What fuels me</h1>
 
