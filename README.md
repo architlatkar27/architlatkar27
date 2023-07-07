@@ -10,8 +10,7 @@ I like to explore music and podcasts while at work, and follow F1 on race weeken
 </p>
 <b>connect with me</b>
 
-![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 <h1>What i do at work 🖥️</h1>
 
@@ -104,5 +103,3 @@ Wherever i am, i would like to be useful. Be it in work, in my family or among f
 <b>The most inspiring Programmer?</b> Linus Torvalds
 
 <b>Fav Linux Distro?</b> POP OS!
-
-<b>Fav Athlete?</b> Lewis Hamilton
