@@ -3,19 +3,23 @@
 
 <h1>About Me</h1>
 
-
+<p>
 I am a very passionate programmer, and in general i love to solve technical challenges. I grew up in Pune, did BE from Ramaiah Institute of Technology, Bengaluru, and currently work at Cloudera Inc. 
 
 I like to explore music and podcasts while at work, and follow F1 on race weekends. Also like to watch cricket, play sports (cricket, football, badminton, tt, or video games as well). 
+</p>
+<b>connect with me</b>
 
-connect with me :) 
+![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <h1>What i do at work 🖥️</h1>
 
-
+<p>
 In Cloudera, i am a part of the Data Warehouse team. I work on the CDW server which provisions clusters for users to use Hive and Impala on public cloud platforms. 
 
 I write code in golang and regularly use Kubernetes concepts on AWS cloud platform. 
+</p>
 
 <b><h2> my skillset </h2>
 
@@ -69,18 +73,36 @@ some other stuff that i use
 </b>
 
 <h1>Whats in my focus🧐</h1>
+<p>
+I like to continously learn stuff related to my field and other interests. As of now i am learning the <i>Cadence Workflow Engine</i> which i could use in many different ways. 
 
-<li>Currently focused on getting to know more about distributed databses and internal workings of Apache Hive</li>
-<li>Working on my piano skills again</li>
-
+I am also relearning Piano, practicing fundamentals and trying out a few songs 🎶
+</p>
 
 <h1>Someday i would like to...</h1>
 
-
-<li>Do the Kashmir great lakes trek ⛰️</li>
+<p>
+<li>Travel around to great places, trek in the Himalayas ⛰️</li>
 <li>Watch F1 races from the paddocks 🏎️ </li>
-<li>Become a commiter on some interesting Apache projects, maybe even start one of my own 👨🏻‍💻</li>
+<li>Become a commiter on interesting Apache projects, maybe even start one of my own 👨🏻‍💻</li>
+</p>
 
-<h1>What fuels me</h1>
+<h1>What fuels me ⚡️⚡️</h1>
 
-<h2>Some good looking stats 😜<h2>
+<p>
+Wherever i am, i would like to be useful. Be it in work, in my family or among friends etc. For my happiness lies in knowing that i can create a positive impact. This inspires me to keep learning the latest tech, work on some interesting stuff and explore opportunites to improve myself
+</p>
+
+<h2>Rapid fire round </h2>
+
+<b>Fav Athlete?</b> Lewis Hamilton
+
+<b>In Cricket?</b> Steve Smith 🏏
+
+<b>Best Programming language?</b> Python anyday 😂
+
+<b>The most inspiring Programmer?</b> Linus Torvalds
+
+<b>Fav Linux Distro?</b> POP OS!
+
+<b>Fav Athlete?</b> Lewis Hamilton
