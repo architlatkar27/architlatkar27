@@ -1,24 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Shadows+Into+Light+&size=30&pause=1000&color=40F734&background=020107F2&center=true&vCenter=true&width=850&height=160&lines=Hello+There+%F0%9F%91%8B;My+name+is+Archit+Latkar;Welcome+to+my+page+%F0%9F%98%83)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+The+Light&size=30&pause=1000&color=F6F744&background=415076DA&center=true&vCenter=true&random=false&width=850&height=160&lines=Hey+There+%F0%9F%91%8B;Archit+here!!;Read+about+me+here%F0%9F%91%87)](https://git.io/typing-svg)
 
 
 <h1>About Me</h1>
 
 <p>
-I am a very passionate programmer, and in general i love to solve technical challenges. I grew up in Pune, did BE from Ramaiah Institute of Technology, Bengaluru, and currently work at Cloudera Inc. 
-
-I like to explore music and podcasts while at work, and follow F1 on race weekends. Also like to watch cricket, play sports (cricket, football, badminton, tt, or video games as well). 
+I am a software developer at Cloudera (Jan 2022 - present), working in the DataWarehouse team. I am a passionate programmer, who also likes to explore tech, solve challenges and make our product better and more user friendly.
 </p>
-<b>connect with me</b>
 
+<p>
+In my free time i read boks, learn to play the piano and also like to cook meals. My hobbies are varied, which includes exploring podcasts, listening to music, watching good anime, and recently i also learned surfing🏄 
+</p>
+
+Feel free to connect with me 🤝😊
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/architlatkar27/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/architlatkar?igsh=dG4wbmR6ZXNoOXNi)  
 
 
 <h1>What i do at work 🖥️</h1>
 
 <p>
-In Cloudera, i am a part of the Data Warehouse team. I work on the CDW server which provisions clusters for users to use Hive and Impala on public cloud platforms. 
-
-I write code in golang and regularly use Kubernetes concepts on AWS cloud platform. 
+I am part of the Cloudera-Data-Warehouse (CDW) product. I work on code that can deploy Apache Hive, Impala and Trino warehouses on a customer's AWS Cloud account (as well as Azure and private cloud). We use a variety of AWS services to provide a high performing and secure platform for meeting customer's ETL query processing requirements. 
 </p>
+Some of my major contributions till now
+
+<li>Improving autoscaling on Hive virtual warehouses</li>
+<li>Making IAM policies stricter for customer cloud security compliance</li>
+<li>Introduced features in product as per customer requests</li>
+<li>Owning, automating and improving a daily cleanup job for cleaning our AWS dev account and minimizing cloud costs</li>
+<li>Code reviewer for changes in the code flow on AWS</li>
 
 <b><h2> my skillset </h2>
 
@@ -73,7 +82,7 @@ some other stuff that i use
 
 <h1>Whats in my focus🧐</h1>
 <p>
-I like to continously learn stuff related to my field and other interests. As of now i am learning the <i>Cadence Workflow Engine</i> which i could use in many different ways. 
+I am working on getting AWS certifications which helps me understand our cloud infra better. Also i am continously exploring and making improvements in my go coding skills and style to ensure i write clean code. 
 
 I am also relearning Piano, practicing fundamentals and trying out a few songs 🎶
 </p>
@@ -84,22 +93,6 @@ I am also relearning Piano, practicing fundamentals and trying out a few songs �
 <li>Travel around to great places, trek in the Himalayas ⛰️</li>
 <li>Watch F1 races from the paddocks 🏎️ </li>
 <li>Become a commiter on interesting Apache projects, maybe even start one of my own 👨🏻‍💻</li>
+<li>Write some blogs about whatever i find interesting</li>
 </p>
 
-<h1>What fuels me ⚡️⚡️</h1>
-
-<p>
-Wherever i am, i would like to be useful. Be it in work, in my family or among friends etc. For my happiness lies in knowing that i can create a positive impact. This inspires me to keep learning the latest tech, work on some interesting stuff and explore opportunites to improve myself
-</p>
-
-<h2>Rapid fire round </h2>
-
-<b>Fav Athlete?</b> Lewis Hamilton
-
-<b>In Cricket?</b> Steve Smith 🏏
-
-<b>Best Programming language?</b> Python anyday 😂
-
-<b>The most inspiring Programmer?</b> Linus Torvalds
-
-<b>Fav Linux Distro?</b> POP OS!
