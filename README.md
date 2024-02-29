@@ -27,7 +27,7 @@ Some of my major contributions till now
 <li>Making IAM policies stricter for customer cloud security compliance</li>
 <li>Introduced features in product as per customer requests</li>
 <li>Owning, automating and improving a daily cleanup job for cleaning our AWS dev account and minimizing cloud costs</li>
-<li>Code reviewer for changes in the code flow on AWS</li>
+<li>Code reviewer for changes in the code flow related AWS infrastructure provisioning</li>
 
 <b><h2> my skillset </h2>
 
