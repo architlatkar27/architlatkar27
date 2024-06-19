@@ -57,7 +57,6 @@ Cloud Computing
 
 i am a certified AWS Cloud Practitioner, and i am on my way to get the Developer Associate and Devops Professional certifications 🦾
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73ca296e-5c72-4370-baca-1f3ad8d1ea9a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <img alt="AWS Certified Cloud Practitioner" src="images/aws-certified-cloud-practitioner.png">
 
 
