@@ -21,7 +21,7 @@ Feel free to connect with me 🤝😊
 <p>
 I am part of the Cloudera-Data-Warehouse (CDW) product. I work on code that can deploy Apache Hive, Impala and Trino warehouses on a customer's AWS Cloud account (as well as Azure and private cloud). We use a variety of AWS services to provide a high performing and secure platform for meeting customer's ETL query processing requirements. 
 </p>
-Some of my major contributions till now
+Some of my major contributions till now - 
 
 <li>Improving autoscaling on Hive virtual warehouses</li>
 <li>Making IAM policies stricter for customer cloud security compliance</li>
@@ -29,9 +29,9 @@ Some of my major contributions till now
 <li>Owning, automating and improving a daily cleanup job for cleaning our AWS dev account and minimizing cloud costs</li>
 <li>Code reviewer for changes in the code flow related AWS infrastructure provisioning</li>
 
-<b><h2> my skillset </h2>
+<b><h2> My Skillset </h2>
 
-what languages i use for programming
+What languages i use for programming
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -39,7 +39,7 @@ what languages i use for programming
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-some amazing tools i learnt on my job
+Some amazing tools i learnt on my job
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,12 +50,18 @@ some amazing tools i learnt on my job
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-cloud computing 
+Cloud Computing 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-familiar frameworks
+i am a certified AWS Cloud Practitioner, and i am on my way to get the Developer Associate and Devops Professional certifications 🦾
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73ca296e-5c72-4370-baca-1f3ad8d1ea9a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img alt="AWS Certified Cloud Practitioner" src="images/aws-certified-cloud-practitioner.png">
+
+
+Frameworks i am familar with
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -64,7 +70,7 @@ familiar frameworks
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-databases i have used
+Databases i have used
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -72,7 +78,7 @@ databases i have used
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-some other stuff that i use 
+Some other stuff that i use 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
